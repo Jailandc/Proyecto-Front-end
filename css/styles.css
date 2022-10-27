@@ -1,0 +1,31 @@
+
+
+.countdown {
+text-align:center;
+}
+
+.styled div {
+display: inline-block;
+font-size: 50px;
+font-weight: 700;
+text-align:center;
+margin: 0 1px;
+width: 100px;
+padding: 10px 30px 53px; 
+height: 100px;
+background:rgba(255, 255, 255, 0.0);
+text-shadow: none;
+vertical-align: middle; 
+border-right:2px solid rgba(245, 16, 16, 0.36);
+}
+
+.styled div span {
+display: block;
+border-top: 2px solid rgba(245, 16, 16, 0.36);
+padding-top: 1px;
+font-size: 15px;
+font-weight: 400;
+text-align: center;
+}
+
+
